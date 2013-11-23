@@ -61,7 +61,7 @@ That's it, I hope you find this library useful in your own sketches.
 	
 * 20120114 Luis Sismeiro (http://usethearduino.blogspot.com/2008/11/changing-pwm-frequency-on-arduino.html)
 * 20130817 Johnny Nilsson
-* 20130818 Sebastian Nilsson
+* 20130818 Sebastian Nilsson (http://sebastiannilsson.com/en/blogg/arduino-bibliotek-for-motordrivare-l29x)
 
  
  
