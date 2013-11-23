@@ -1,4 +1,8 @@
 ## L29x Arduino Library
+![L298n](http://sebastiannilsson.com/wp-content/uploads/2013/11/l298n-arduino-library-300x224.jpg)
+
+http://sebastiannilsson.com/en/blogg/arduino-bibliotek-for-motordrivare-l29x
+
 This is a library to simplify the use of H bridges in you sketches. You
 need to configure the Arduino pins that are connected to the H bridge
 according to their functions.
