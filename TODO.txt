@@ -1,0 +1,4 @@
+* Add analog reading of the Sense (pin 1,15 on L298x)
+* How tho change PWM frequency on the PWM. Function available in AF_Motor
+* Implement more methods to control motors(?)
+* More program examples
