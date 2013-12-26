@@ -241,8 +241,11 @@ void L29x::run(uint8_t cmd) {
 // 
 void L29x::setSpeed(uint8_t speed) {
     // Map the speed to motors working PWM to aviod individual motors unusable PWM range from 0 to "lowestPWM where the motor starts"
-    _currentPwm = map(speed,_minimumSpeed,255,0,255);
-	analogWrite(_enable, speed);
+    if (speed == 0)
+    	_currentPwm = 0;
+    else	
+	    _currentPwm = map(speed,0,255,_minimumSpeed,255);
+	analogWrite(_enable, _currentPwm);
 }
 // set speed in percentage from -100 to 100
 void L29x::setSpeedPercentage(float speed) {
