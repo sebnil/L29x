@@ -68,4 +68,7 @@ That's it, I hope you find this library useful in your own sketches.
 * 20130818 Sebastian Nilsson (http://sebastiannilsson.com/en/blogg/arduino-bibliotek-for-motordrivare-l29x)
 
  
- 
+## Support my creation of open source software:
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=sebnil&url=https://github.com/sebnil/L29x)
+
+<a href='https://ko-fi.com/A0A2HYRH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
