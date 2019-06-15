@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-L29x		KEYWORD1
+L29x	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
@@ -15,9 +15,9 @@ L29x		KEYWORD1
 stop	KEYWORD2
 rotPos	KEYWORD2
 rotNeg	KEYWORD2
-setSpeed KEYWORD2
-getSpeed KEYWORD2
-setMinimumSpeed KEYWORD2
+setSpeed	KEYWORD2
+getSpeed	KEYWORD2
+setMinimumSpeed	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
